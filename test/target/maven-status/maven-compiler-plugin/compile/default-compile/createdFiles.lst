@@ -1,1 +1,4 @@
-test\HomeController.class
+controllers\HomeController.class
+dao\ProductDAOImpl.class
+dao\ProductDAO.class
+model\Product.class

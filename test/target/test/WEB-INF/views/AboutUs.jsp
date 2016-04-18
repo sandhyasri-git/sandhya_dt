@@ -4,7 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>About Us</title>
+<style>
+  body
+  {
+  background-color:#d0e4fe;
+  }
+  </style>
+
 </head>
 <body>
 <h3><font color="red">Page Under Construction</font></h3>

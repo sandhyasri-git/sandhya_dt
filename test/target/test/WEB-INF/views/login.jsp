@@ -1,13 +1,19 @@
-<%@ page language="java" contentType="text/html" %>
-
+<%-- <%@ page language="java" contentType="text/html" %>-->--%>
+<%@include file="Header.jsp" %>
 <html lang="en">
 <head>
   <title>Music Hub</title>
-  <meta charset="utf-8">
+<!--  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <style>
+  body
+  {
+  background-color:#d0e4fe;
+  }
+  </style>-->
 </head>
 <body>
 <div class="container">
@@ -23,5 +29,6 @@
     <button type="submit" class="btn btn-default" onclick="Home.jsp">Submit</button>
   </form>
 </div>
+<%@include file="Footer.jsp" %>
 </body>
 </html>
