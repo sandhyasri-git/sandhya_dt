@@ -14,7 +14,8 @@
 	<mvc:default-servlet-handler/>
 	<mvc:annotation-driven></mvc:annotation-driven>
 	<context:component-scan base-package="com.controllers" />
-
+<bean id="ps" class="com.dao.ProdService"/>
+ <bean id="pImpl" class="com.dao.ProductDAOImpl"/>
 	<mvc:resources mapping="/resources/**" location="/resources/" />
 	<!-- <mvc:annotation-driven /> -->
 

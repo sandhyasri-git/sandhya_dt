@@ -1,4 +1,7 @@
 com\controllers\HomeController.class
 com\dao\ProductDAOImpl.class
+com\dao\Data.class
+com\dao\ProdService.class
+com\model\userDetails.class
 com\dao\ProductDAO.class
 com\model\Product.class
