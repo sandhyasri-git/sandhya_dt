@@ -1,0 +1,15 @@
+com\niit\clothes\config\ApplicationContextConfig.class
+com\niit\clothes\dao\SupplierDAOImpl.class
+com\niit\clothes\App.class
+com\niit\clothes\dao\CategoryDAO.class
+com\niit\clothes\dao\UserDAOImpl.class
+com\niit\clothes\model\Category.class
+com\niit\clothes\model\User.class
+com\niit\clothes\dao\UserDAO.class
+com\niit\clothes\model\UserDetails.class
+com\niit\clothes\dao\SupplierDAO.class
+com\niit\clothes\dao\CategoryDAOImpl.class
+com\niit\clothes\model\Product.class
+com\niit\clothes\dao\ProductDAO.class
+com\niit\clothes\model\Supplier.class
+com\niit\clothes\dao\ProductDAOImpl.class
